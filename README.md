@@ -16,11 +16,11 @@ HTML • CSS • Firebase • Python
 - **Minecraft Utilities** – Custom tools, commands, and systems  
 - **Small Linux/Python tools** – automation & scripts
 
-  Most used Languages
-  -HTML
-  -CSS
-  -JAVASCRIPT
-  -Python
+  Most used Languages:
+  HTML
+  CSS
+  JAVASCRIPT
+  Python
   
  📫 How to reach me: maxiefeseymen@gmail.com
 
