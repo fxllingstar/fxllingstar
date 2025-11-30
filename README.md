@@ -29,6 +29,5 @@ HTML • CSS • Firebase • Python
 - REST + WebSocket scaling
 - System design basics
 
- “Chrome up, push limits.”  
 I like building complex systems, experimenting with mechanics,  
 and creating worlds both in code and in games.
