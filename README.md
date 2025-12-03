@@ -48,3 +48,5 @@ and creating worlds both in code and in games.
 
 QOTD:
 “To improve is to change; to be perfect is to change often. Progress is impossible without change, and those who cannot change their minds cannot change anything.”
+
+(Side note: I do **NOT** wear glasses in real life)
