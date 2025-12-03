@@ -25,10 +25,15 @@ HTML • CSS • Firebase • Python
  📫 How to reach me: maxiefeseymen@gmail.com
 
  Next Projects
+ 
 Here’s what I plan to build next:
+
 A custom browser that works with Google (similar concept to Arc Browser)
+
 Fireside mobile/desktop app.(Also goes into Fireside)
+
 A simple app that pulls information about countries from APIs.
+
 More ideas are yet to be writen here :) 
 
 📚 Learning next:
