@@ -24,10 +24,22 @@ HTML • CSS • Firebase • Python
   
  📫 How to reach me: maxiefeseymen@gmail.com
 
+ Next Projects
+Here’s what I plan to build next:
+A custom browser that works with Google (similar concept to Arc Browser)
+Fireside mobile/desktop app.(Also goes into Fireside)
+A simple app that pulls information about countries from APIs.
+More ideas are yet to be writen here :) 
+
 📚 Learning next:
 - Frontend frameworks (React/Svelte)
 - REST + WebSocket scaling
 - System design basics
+- C++ and C in my school
 
-I like building complex systems, experimenting with mechanics,  
+
+I like building complex systems, experimenting with mechanics,
 and creating worlds both in code and in games.
+
+QOTD:
+“To improve is to change; to be perfect is to change often. Progress is impossible without change, and those who cannot change their minds cannot change anything.”
