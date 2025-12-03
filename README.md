@@ -23,6 +23,7 @@ HTML • CSS • Firebase • Python
   Python
   
  📫 How to reach me: maxiefeseymen@gmail.com
+ and please state that you are trying to contact me in the email,because I have so much spam in my email <3
 
  Next Projects
  
