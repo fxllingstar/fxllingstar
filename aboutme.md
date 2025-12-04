@@ -42,6 +42,12 @@ Playing War Thunder, DCS, and Warframe
 Competitive swimming (11 Years)
 Creating systems, rules, and stories for games
 
+Sidenotes: 
+I do **NOT** wear glasses in real life.
+
+QOTD:
+Without friends no one would choose to live, though he had all other goods. - Aristotle
+
 📫 Contact
 
 If you want to collaborate or contribute, reach out:
