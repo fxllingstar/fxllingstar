@@ -1,53 +1,38 @@
-   Hi there 👋
-   Hi, I'm Max 
-I’m a self-taught developer focused on building full-stack apps, tools, and game systems.  
-Currently working on Fireside — a real-time chat and social platform.
+# Hi, I'm Max 👋
+I'm a self-taught full-stack developer focused on building complex apps, tools, and game systems. 
+I love experimenting with mechanics and creating worlds, both in code and in games.
+---
 
- Currently building: Fireside (real-time chat app)  
-Also creating dev tools for Minecraft & game projects  
- Learning more backend + WebSockets + security
+### 💻 What I'm Currently Building
 
- **Tech I use:**  
-JavaScript • Node.js • Express • WebSockets • MongoDB  
-HTML • CSS • Firebase • Python
+* **Fireside:** A real-time chat and social platform. I'm actively developing the core application and planning the mobile/desktop extensions.
+* **Minecraft Utilities:** Custom dev tools, commands, and systems for game projects.
+
+---
 
 ### 🚀 Featured Projects
-- **Fireside** – Real-time chat & social platform  
-- **Minecraft Utilities** – Custom tools, commands, and systems  
-- **Small Linux/Python tools** – automation & scripts
 
-  Most used Languages:
-  HTML
-  CSS
-  JAVASCRIPT
-  Python
-  
- 📫 How to reach me: maxiefeseymen@gmail.com
- and please state that you are trying to contact me in the email,because I have so much spam in my email <3
+* **Fireside:** Real-time chat & social platform
+* **Minecraft Utilities:** Custom tools, commands, and systems 
+* **Small Linux/Python tools:** Automation scripts and utilities.
 
- Next Projects
- 
-Here’s what I plan to build next:
+---
 
-A custom browser that works with Google (similar concept to Arc Browser)
+### 🛠️ Technology Stack
 
-Fireside mobile/desktop app.(Also goes into Fireside)
+* **Languages:** JavaScript, Python, HTML, CSS
+* **Backend:** Node.js, Express, WebSockets
+* **Databases/Services:** MongoDB, Firebase, MySQL
+* **Actively Learning:** Backend scaling (REST + WebSockets), Web Security, System Design, C++/C
 
-A simple app that pulls information about countries from APIs.
+---
 
-More ideas are yet to be writen here :) 
+### 🎯 Future Plans
 
-📚 Learning next:
-- Frontend frameworks (React/Svelte)
-- REST + WebSocket scaling
-- System design basics
-- C++ and C in my school
+* Develop Fireside mobile/desktop applications.
+* Build a custom browser (similar concept to Arc Browser).
+* Create a simple app that pulls information about countries from APIs.
+* Start learning **Frontend frameworks (React/Svelte)**.
 
-
-I like building complex systems, experimenting with mechanics,
-and creating worlds both in code and in games.
-
-QOTD:
-“To improve is to change; to be perfect is to change often. Progress is impossible without change, and those who cannot change their minds cannot change anything.”
-
-(Side note: I do **NOT** wear glasses in real life)
+---
+Feel free to reach out via email: **maxiefeseymen@gmail.com**. (Please use the subject line **[GitHub Inquiry]** to avoid the spam filter.)
