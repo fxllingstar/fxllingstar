@@ -38,9 +38,12 @@ System design fundamentals
 Outside of coding, I like:
 
 Building Cyberpunk-themed megastructures in Minecraft
-Playing War Thunder, DCS, and Warframe
-Competitive swimming (11 Years)
+Playing War Thunder, DCS, and Warframe.
+
 Creating systems, rules, and stories for games
+
+I am also a competitive swimmer for 11 years! :)
+
 
 Sidenotes: 
 I do **NOT** wear glasses in real life.
