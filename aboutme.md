@@ -16,8 +16,8 @@ I like combining function + design — making things feel good, not just work.
 🧰 My Tech Stack
 
 Languages & Tools I use most:
-JavaScript • Node.js • Express • WebSockets • MongoDB
-HTML • CSS • Firebase • Python
+JavaScript • Node.js • Express • WebSockets • MongoDB •
+HTML • CSS • Firebase • Python • MySQL
 
 🎯 What I’m Learning Next
 
