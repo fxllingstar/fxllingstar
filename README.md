@@ -1,4 +1,5 @@
 # Hi, I'm Max 👋
+People call me Star sometimes.
 I'm a self-taught full-stack developer focused on building complex apps, tools, and game systems. 
 I love experimenting with mechanics and creating worlds, both in code and in games.
 ---
@@ -35,7 +36,7 @@ I love experimenting with mechanics and creating worlds, both in code and in gam
 * Start learning **Frontend frameworks (React/Svelte)**.
 
 
-# Side Note:
+## Side Note:
 Yes, some of the code is written by AI, NO It does not write all the code, about 93% is written by ME, I only use it if I am stuck,and can't find a solution.
 
 ---
