@@ -34,5 +34,9 @@ I love experimenting with mechanics and creating worlds, both in code and in gam
 * Create a simple app that pulls information about countries from APIs.
 * Start learning **Frontend frameworks (React/Svelte)**.
 
+
+# Side Note:
+Yes, some of the code is written by AI, NO It does not write all the code, about 93% is written by ME, I only use it if I am stuck,and can't find a solution.
+
 ---
 Feel free to reach out via email: **maxiefeseymen@gmail.com**. (Please use the subject line **[GitHub Inquiry]** to avoid the spam filter.)
