@@ -1,5 +1,4 @@
 # Hi, I'm Max 👋
-People call me Star sometimes.
 I'm a self-taught full-stack developer focused on building complex apps, tools, and game systems. 
 I love experimenting with mechanics and creating worlds, both in code and in games.
 ---
