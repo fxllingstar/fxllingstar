@@ -5,7 +5,7 @@ I love experimenting with mechanics and creating worlds, both in code and in gam
 
 ### 💻 What I'm Currently Building
 
-* **Fireside:** A real-time chat and social platform. I'm actively developing the core application and planning the mobile/desktop extensions.
+* **Fireside:** A real-time chat and social platform. I'm actively developing the core application and planning the mobile/desktop extensions. (Currently Privated for security concerns, sorry :))
 * **Minecraft Utilities:** Custom dev tools, commands, and systems for game projects.
 
 ---
