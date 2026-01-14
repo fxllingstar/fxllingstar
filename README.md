@@ -22,8 +22,8 @@ I love experimenting with mechanics and creating worlds, both in code and in gam
 
 * **Languages:** JavaScript, Python, HTML, CSS, Java(minecraft modding)
 * **Backend:** Node.js, Express, WebSockets
-* **Databases/Services:** MongoDB, Firebase, MySQL
-* **Actively Learning:** Backend scaling (REST + WebSockets), Web Security, System Design, C++/C
+* **Databases/Services:** MongoDB, Firebase, MySQL, PostgreSQL
+* **Actively Learning:** Backend scaling (REST + WebSockets), Web Security, System Design, C++/C, JWT
 
 ---
 
