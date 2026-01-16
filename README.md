@@ -33,6 +33,7 @@ I love experimenting with mechanics and creating worlds, both in code and in gam
 * Build a custom browser (similar concept to Arc Browser).
 * Create a simple app that pulls information about countries from APIs.
 * Start learning **Frontend frameworks (React/Svelte)**.
+* An app like Playstore,to post applications,it is probably going to be my applications that I make posted there.
 
 ---
 Feel free to reach out via email: **maxiefeseymen@gmail.com**. (Please use the subject line **[GitHub Inquiry]** to avoid the spam filter.)
