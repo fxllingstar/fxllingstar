@@ -50,3 +50,5 @@ I'm a self-taught **Full-Stack Developer** focused on building complex applicati
 
 📫 **Reach out:** [maxiefeseymen@gmail.com](mailto:maxiefeseymen@gmail.com)  
 *(Please use subject: **[GitHub Inquiry]** To avoid the spam filter<3)*
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fxllingstar)](https://github.com/anuraghazra/github-readme-stats)
