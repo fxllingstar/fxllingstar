@@ -1,4 +1,8 @@
-![Alt Text](https://tenor.com/view/columbina-genshin-impact-columbina-genshin-genshin-impact-ultimate-gif-9908960034003057978)
+![Alt Text](https://github.com/user-attachments/assets/68a74bd1-7b21-47e5-b956-744bf212631c)
+
+
+
+
 
 # Hi, I'm Max! 👋
 
