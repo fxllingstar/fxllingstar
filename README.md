@@ -6,7 +6,6 @@ I'm a self-taught **Full-Stack Developer** focused on building complex applicati
 
 ### 🚀 What I'm Hovering Over Right Now
 * **wings-core:** An experimental self-hosted state sync & versioning system. (Active Development)
-* **Minecraft Utilities:** Architecting custom dev tools and command systems for game projects.
 * **Learning:** Deep diving into **System Design** and **C++/C** for lower-level performance.
 
 ---
@@ -21,13 +20,12 @@ I'm a self-taught **Full-Stack Developer** focused on building complex applicati
 * **Backend:** Node.js, Express, WebSockets, JWT
 * **Databases:** PostgreSQL, MySQL, Firebase, MongoDB
 * **Game Dev:** Java (Minecraft Modding), Logic Systems
-* **Front-end:** HTML,CSS
+* **Front-end:** HTML, CSS
 ---
 
 ### 📂 Featured Projects
 
 * **[wings-core](https://github.com/fxllingstar/wings-core):** My current focus. A sync engine for distributed states.
-* **[Minecraft Utils]:** A collection of tools to streamline world-building.
 * **[Fireside](https://github.com/fxllingstar/Fireside):** *Archived.* A real-time social messaging platform. (Learned a lot about WebSockets here!)
 
 ---
