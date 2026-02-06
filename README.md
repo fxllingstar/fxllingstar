@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/iYOypqhLfToAAAAC/columbina-genshin-impact-columbina.gif" alt="Description of GIF" width="800px">
+  <img src="https://media1.tenor.com/m/iYOypqhLfToAAAAC/columbina-genshin-impact-columbina.gif" alt="Description of GIF" width="600px">
 </div>
 
 
