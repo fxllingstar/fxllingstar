@@ -1,39 +1,44 @@
-# Hi, I'm Max 👋
-I'm a self-taught full-stack developer focused on building complex apps, tools, and game systems. 
-I love experimenting with mechanics and creating worlds, both in code and in games.
----
+# Hi, I'm Max! 👋
 
-### 💻 What I'm Currently Building
-
-* **Fireside:** A real-time chat and social platform. I'm actively developing the core application and planning the mobile/desktop extensions. (ABANDONED! I may or may not come back to it. As all hope is not lost, but for now I am focusing on other projects <3)
-* **Minecraft Utilities:** Custom dev tools, commands, and systems for game projects.
-* **(NEW) wings-core:** Experimental self-hosted state sync & version system.
----
-
-### 🚀 Featured Projects
-
-* **Fireside:** Real-time chat & social platform
-* **Minecraft Utilities:** Custom tools, commands, and systems 
-* **Small Linux/Python tools:** Automation scripts and utilities.
+I'm a self-taught **Full-Stack Developer** focused on building complex applications, developer tools, and game systems. I love bridging the gap between deep logic and immersive mechanics.
 
 ---
 
-### 🛠️ Technology Stack
-
-* **Languages:** JavaScript, Python, HTML, CSS, Java(minecraft modding)
-* **Backend:** Node.js, Express, WebSockets
-* **Databases/Services:** MongoDB, Firebase, MySQL, PostgreSQL
-* **Actively Learning:** Backend scaling (REST + WebSockets), Web Security, System Design, C++/C, JWT
+### 🚀 What I'm Hovering Over Right Now
+* **wings-core:** An experimental self-hosted state sync & versioning system. (Active Development)
+* **Minecraft Utilities:** Architecting custom dev tools and command systems for game projects.
+* **Learning:** Deep diving into **System Design** and **C++/C** for lower-level performance.
 
 ---
 
-### 🎯 Future Plans
+### 🛠️ Tech Stack
 
-* Develop Fireside mobile/desktop applications.
-* Build a custom browser (similar concept to Arc Browser).
-* Create a simple app that pulls information about countries from APIs.
-* Start learning **Frontend frameworks (React/Svelte)**.
-* An app like Playstore,to post applications,it is probably going to be my applications that I make posted there.
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+* **Backend:** Node.js, Express, WebSockets, JWT
+* **Databases:** PostgreSQL, MySQL, Firebase, MongoDB
+* **Game Dev:** Java (Minecraft Modding), Logic Systems
 
 ---
-Feel free to reach out via email: **maxiefeseymen@gmail.com**. (Please use the subject line **[GitHub Inquiry]** to avoid the spam filter.)
+
+### 📂 Featured Projects
+
+* **[wings-core](https://github.com/fxllingstar/wings-core):** My current focus. A sync engine for distributed states.
+* **[Minecraft Utils]:** A collection of tools to streamline world-building.
+* **[Fireside](https://github.com/fxllingstar/Fireside):** *Archived.* A real-time social messaging platform. (Learned a lot about WebSockets here!)
+
+---
+
+### 🎯 Future Roadmap
+- [ ] Master a Frontend Framework (React or Svelte)
+- [ ] Build a custom browser (Arc-inspired)
+- [ ] Launch a personal "App Store" for my utility tools
+- [ ] Make an app/website for wings-core.
+
+---
+
+📫 **Reach out:** [maxiefeseymen@gmail.com](mailto:maxiefeseymen@gmail.com)  
+*(Please use subject: **[GitHub Inquiry]**)*
