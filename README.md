@@ -11,8 +11,10 @@
 I'm a self-taught **Full-Stack Developer** focused on building complex applications, developer tools, and game systems. I love bridging the gap between deep logic and immersive mechanics.
 
 ---
+<div align="center">
+<h2> 🚀 What I'm Hovering Over Right Now</h2>
+</div>
 
-### 🚀 What I'm Hovering Over Right Now
 * **wings-core:** An experimental self-hosted state sync & versioning system. (Active Development)
 * **Learning:** Deep diving into **System Design** and **C++/C** for lower-level performance.
 
