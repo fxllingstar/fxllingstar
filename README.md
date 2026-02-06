@@ -36,7 +36,7 @@ I'm a self-taught **Full-Stack Developer** focused on building complex applicati
 ### 📂 Featured Projects
 
 * **[wings-core](https://github.com/fxllingstar/wings-core):** My current focus. A sync engine for distributed states.
-* **[Fireside](https://github.com/fxllingstar/Fireside):** *Archived.* A real-time social messaging platform. (Learned a lot about WebSockets here!)
+* **[Fireside](https://github.com/fxllingstar/Fireside):** *Archived.* A real-time social messaging platform. (Learned a lot about WebSockets here! If you wish to take over, email me :))
 
 ---
 
