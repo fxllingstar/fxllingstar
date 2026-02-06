@@ -21,7 +21,7 @@ I'm a self-taught **Full-Stack Developer** focused on building complex applicati
 * **Backend:** Node.js, Express, WebSockets, JWT
 * **Databases:** PostgreSQL, MySQL, Firebase, MongoDB
 * **Game Dev:** Java (Minecraft Modding), Logic Systems
-
+* **Front-end:** HTML,CSS
 ---
 
 ### 📂 Featured Projects
