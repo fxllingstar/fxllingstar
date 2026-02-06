@@ -4,8 +4,9 @@
 
 
 
-
+<div align="center">
 # Hi, I'm Max! 👋
+</div>
 
 I'm a self-taught **Full-Stack Developer** focused on building complex applications, developer tools, and game systems. I love bridging the gap between deep logic and immersive mechanics.
 
