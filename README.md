@@ -1,3 +1,7 @@
+
+![columbinault](https://github.com/user-attachments/assets/cebd9e15-76cd-4e5d-9df8-cfd87b49b414)
+
+
 # Hi, I'm Max! 👋
 
 I'm a self-taught **Full-Stack Developer** focused on building complex applications, developer tools, and game systems. I love bridging the gap between deep logic and immersive mechanics.
