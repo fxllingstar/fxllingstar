@@ -41,4 +41,4 @@ I'm a self-taught **Full-Stack Developer** focused on building complex applicati
 ---
 
 📫 **Reach out:** [maxiefeseymen@gmail.com](mailto:maxiefeseymen@gmail.com)  
-*(Please use subject: **[GitHub Inquiry]**)*
+*(Please use subject: **[GitHub Inquiry]** To avoid the spam filter<3)*
