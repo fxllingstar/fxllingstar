@@ -1,5 +1,4 @@
-
-![Silly](https://github.com/user-attachments/assets/27291b34-71f7-48c0-8671-fe1c75cb35d3)
+<img src="https://preview.redd.it/4cbyc8rmg35g1.gif?width=800&format=mp4&s=e7d7becca227f6dbc33b2ff84aa201b10571fb7e" width="400" alt="Description">
 
 
 # Hi, I'm Max! 👋
