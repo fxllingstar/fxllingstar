@@ -1,5 +1,5 @@
-![Alt Text](https://media1.tenor.com/m/iYOypqhLfToAAAAC/columbina-genshin-impact-columbina.gif)
 
+<img src="https://media1.tenor.com/m/iYOypqhLfToAAAAC/columbina-genshin-impact-columbina.gif" alt="Description of GIF">
 
 
 
