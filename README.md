@@ -27,7 +27,7 @@ I'm a self-taught **Full-Stack Developer** focused on building complex applicati
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-* **Backend:** Node.js, Express, WebSockets, JWT
+* **Backend:** Node.js, Express, WebSockets, JWT, Python
 * **Databases:** PostgreSQL, MySQL, Firebase, MongoDB
 * **Game Dev:** Java (Minecraft Modding), Logic Systems
 * **Front-end:** HTML, CSS
