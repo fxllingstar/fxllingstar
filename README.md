@@ -16,6 +16,7 @@ I'm a self-taught **Full-Stack Developer** focused on building complex applicati
 </div>
 
 * **wings-core:** An experimental self-hosted state sync & versioning system. (Active Development)
+* **wings-core-mobile:** An mobile version for the project wings-core!
 * **Learning:** Deep diving into **System Design** and **C++/C** for lower-level performance.
 
 ---
@@ -42,10 +43,10 @@ I'm a self-taught **Full-Stack Developer** focused on building complex applicati
 ---
 
 ### 🎯 Future Roadmap
-- [ ] Master a Frontend Framework (React or Svelte)
 - [ ] Build a custom browser (Arc-inspired)
 - [ ] Launch a personal "App Store" for my utility tools
 - [ ] Make an app/website for wings-core.
+- [ ] wingsOS for computers!
 
 ---
 
