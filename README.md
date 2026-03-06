@@ -31,7 +31,6 @@ I'm a self-taught **Full-Stack Developer** focused on building complex applicati
 
 * **Backend:** Node.js, Express, WebSockets, JWT, Python
 * **Databases:** PostgreSQL, MySQL, Firebase, MongoDB
-* **Game Dev:** Java (Minecraft Modding), Logic Systems
 * **Front-end:** HTML, CSS
 * **Actively Learning:** Dart, C, Assembly
 ---
@@ -47,7 +46,7 @@ I'm a self-taught **Full-Stack Developer** focused on building complex applicati
 - [ ] Build a custom browser (Arc-inspired)
 - [ ] Launch a personal "App Store" for my utility tools
 - [ ] Make an app/website for wings-core.
-- [ ] wingsOS for computers!
+- [ ] wingsOS for computers! (Underway)
 
 ---
 
