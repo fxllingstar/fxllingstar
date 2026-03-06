@@ -15,8 +15,8 @@ I'm a self-taught **Full-Stack Developer** focused on building complex applicati
 <h2> 🚀 What I'm working Over Right Now</h2>
 </div>
 
-* **wings-core:** An experimental self-hosted state sync & versioning system. (Active Development)
-* **wings-core-mobile:** An mobile version for the project wings-core!
+* **wings-core:** An experimental self-hosted state sync & versioning system.
+* **wings-core-mobile:** An mobile version for the project wings-core! (Active Development)
 * **wingsOS:** PC OS with 2 seperate phases.
 * **Learning:** Deep diving into **System Design** and **Assembly/C** for lower-level performance.
 
