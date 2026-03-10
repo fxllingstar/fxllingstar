@@ -45,7 +45,7 @@ I'm a self-taught **Full-Stack Developer** focused on building complex applicati
 ### 🎯 Future Roadmap
 - [ ] Build a custom browser (Arc-inspired)
 - [ ] Launch a personal "App Store" for my utility tools
-- [ ] Make an app/website for wings-core.
+- [ ] Make an app/website for wings-core. (Underway)
 - [ ] wingsOS for computers! (Underway)
 
 ---
