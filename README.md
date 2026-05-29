@@ -5,7 +5,7 @@
 
 
 <div align="center">
-<h1> Hi, I'm Star/Dams 👋</h1>
+<h1> Hello :></h1>
 </div>
 
 I'm a self-taught **Software Engineer** focused on building complex applications, developer tools, and game systems. I love bridging the gap between deep logic and immersive mechanics.
