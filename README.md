@@ -20,7 +20,7 @@ I'm a self-taught **Software Engineer** focused on building complex applications
 
 ###  Ataraxia — Custom Minecraft Server
 
-Ataraxia is a custom survival/adventure server built on a tightly integrated plugin ecosystem I'm designing and developing solo. Every system is purpose-built — nothing is off-the-shelf.
+Ataraxia is a custom survival/adventure server built on a tightly integrated plugin ecosystem I'm designing and developing with a duo. Every system is purpose-built — nothing is off-the-shelf.
 
 **The Plugin Suite (Dams's):**
 
