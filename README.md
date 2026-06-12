@@ -19,6 +19,7 @@ I'm a self-taught **Software Engineer** focused on building complex applications
 ---
 
 ###  Ataraxia — Custom Minecraft Server
+<sub>A project under <strong>Ataraxia Productions</strong></sub>
 
 Ataraxia is a custom survival/adventure server built on a tightly integrated plugin ecosystem I'm designing and developing with a duo. Every system is purpose-built — nothing is off-the-shelf.
 
@@ -38,11 +39,31 @@ Every plugin is designed to interoperate — DSC's soul state can affect DCM com
 
 ### 🛠️ Tech Stack
 
+
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+
+
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
+
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+
+
+
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+
+
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
 
 - **Backend:** Python, Node.js, Express, WebSockets, JWT
 - **Game Systems:** Java (Paper API)
@@ -52,11 +73,12 @@ Every plugin is designed to interoperate — DSC's soul state can affect DCM com
 
 ---
 
-### 📌 Featured Projects
+###  Featured Projects
 
 - **[wings-core](https://github.com/fxllingstar/wings-core)** — A Git-like sync engine for distributed state management.
 - **[Dams's Combat Mechanics (DCM)](https://github.com/fxllingstar/Dams-s-Combat-Mechanics)** — Dual wielding, axe combos, parries, and a stamina system. Details in the README.
 - **[Dams's Vanilla+](https://github.com/fxllingstar/Dams-s-Vanilla-plus)** — Vanilla+ additions: carrier pigeons, stonecutter expansions, and more.
+
 ###  Future Roadmap
 - [ ] More plugins!
 - [ ] Make a chatting app.
@@ -64,6 +86,11 @@ Every plugin is designed to interoperate — DSC's soul state can affect DCM com
 
 ---
 
- **Reach out:** [the.damsee@gmail.com](mailto:the.damsee@gmail.com)  
+**Reach out:** [the.damsee@gmail.com](mailto:the.damsee@gmail.com)  
 *(Please use subject: **[GitHub Inquiry]** To avoid the spam filter<3)*
 
+---
+
+<div align="center">
+  <sub>© Ataraxia Productions</sub>
+</div>
