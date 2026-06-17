@@ -12,7 +12,6 @@ I'm a self-taught **Software Engineer** focused on building complex applications
 
 ###  What I'm Currently Working On
 
-- **Starfall** — A real-time messaging app with a Discord-inspired UI and a custom space-themed design system.
 - **Ataraxia** — A custom Minecraft server built around an interconnected plugin suite I'm developing entirely from scratch. See below ↓
 - **Dams's Plugin Suite** — A family of Paper/Java plugins powering Ataraxia's combat, PvE, dungeons, souls, and more.
 
